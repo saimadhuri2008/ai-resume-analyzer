@@ -1,0 +1,23 @@
+Jordan Lee
+Software Engineer
+
+SUMMARY
+Backend engineer with 4 years of experience building REST APIs and data pipelines in Python and Java.
+Comfortable across the stack from database design to deployment.
+
+SKILLS
+Python, Java, SQL, PostgreSQL, Docker, AWS, REST APIs, Git, CI/CD
+
+EXPERIENCE
+
+Backend Engineer | Northwind Systems | 2021 - Present
+- Built and maintained REST APIs in Python (FastAPI) serving internal reporting tools.
+- Optimized PostgreSQL queries, cutting average response time by 30%.
+- Set up CI/CD pipelines with GitHub Actions and Docker for automated deployment.
+
+Junior Developer | Fenwick Data Co. | 2019 - 2021
+- Wrote ETL scripts in Python to process daily data exports from partner systems.
+- Contributed to a Java-based internal tool for tracking data quality issues.
+
+EDUCATION
+B.S. Computer Science, Lakeside University, 2019

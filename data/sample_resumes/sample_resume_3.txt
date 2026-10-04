@@ -1,0 +1,23 @@
+Marcus Webb
+Frontend Developer
+
+SUMMARY
+Frontend developer with 5 years of experience building responsive web interfaces.
+Focused on React, accessibility, and performance.
+
+SKILLS
+JavaScript, TypeScript, React, HTML, CSS, Webpack, Jest, Figma
+
+EXPERIENCE
+
+Frontend Developer | Solace Studio | 2020 - Present
+- Built and maintained a React component library used across five internal products.
+- Improved page load performance by 40% through code splitting and lazy loading.
+- Led accessibility audit, bringing key flows to WCAG 2.1 AA compliance.
+
+Junior Frontend Developer | Pixel Foundry | 2019 - 2020
+- Implemented responsive layouts from Figma designs using HTML/CSS.
+- Wrote unit tests for UI components using Jest.
+
+EDUCATION
+B.A. Interactive Design, Rowley College, 2019

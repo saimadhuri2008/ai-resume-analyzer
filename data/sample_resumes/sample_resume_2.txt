@@ -1,0 +1,23 @@
+Priya Nair
+Data Scientist
+
+SUMMARY
+Data scientist with 3 years of experience building predictive models and dashboards.
+Strong background in statistics, Python, and SQL for analytics.
+
+SKILLS
+Python, R, SQL, Scikit-learn, Pandas, Tableau, Power BI, A/B testing
+
+EXPERIENCE
+
+Data Scientist | Alderbrook Analytics | 2022 - Present
+- Built churn prediction models using Scikit-learn, improving retention campaign targeting by 18%.
+- Designed A/B tests to evaluate product feature changes.
+- Created executive dashboards in Tableau summarizing key business metrics.
+
+Data Analyst | Marrow Insights | 2021 - 2022
+- Wrote SQL queries to support ad-hoc business reporting requests.
+- Automated recurring reports using Python scripts.
+
+EDUCATION
+B.S. Statistics, Ashford University, 2021
