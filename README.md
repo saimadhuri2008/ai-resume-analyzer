@@ -1,6 +1,6 @@
 # AI Resume Analyzer
 
-A Retrieval-Augmented Generation (RAG) pipeline that scores how well a resume matches a job description, using semantic search (not keyword matching) plus an LLM-generated 0–100 score with reasoning.
+A Retrieval-Augmented Generation pipeline that scores how well a resume matches a job description, using semantic search (not keyword matching) plus an LLM-generated 0–100 score with reasoning.
 
 ## How it works
 
